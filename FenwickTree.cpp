@@ -1,9 +1,10 @@
+/* C++ program to implement Binary Indexed Tree or Fenwick Tree-To calculate the prefix sum of
+        an input array*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
 
-/*Binary Indexed Tree or Fenwick Tree-To calculate the prefix sum of
-        an input array*/
 /*Function to return the prefix sum from qlow(=0) to qhigh of the array*/
 
 int prefixSum(int *BIT,int qlow,int qhigh,int low,int high)
