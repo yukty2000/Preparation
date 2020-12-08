@@ -5,13 +5,13 @@ typedef long long int lli;
 typedef pair<int,int> pii;
 typedef tuple<int,int,int> tii;
 //modular exponentiation using recursion
-int ModM(int x,int n,int M)
+lli ModM(lli x,lli n,lli M)
 {
     if(n==0)
         return 1;
     else if(n%2==0)
     {
-        int y=ModM(x,n/2,M);
+        lli y=ModM(x,n/2,M);
         return (y*y)%M;
     }
     else
