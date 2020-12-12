@@ -6,7 +6,7 @@
 - [Coin change Problem](CoinChange.cpp)
 - [Matrix Chain Multiplication](MCM.cpp)
 - [Staircase Climbing Problem](StaircaseClimbing.cpp)
-- [Maximum Sub-sequence of non adjacent elements](MaximumSubsequenceNonAdjacent.cpp)
+- [Maximum Sub-sequence of non adjacent elements](MaximumSumSubsequenceNonAdjacent.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
