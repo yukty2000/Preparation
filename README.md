@@ -5,6 +5,7 @@
 - [Find number of possible binary search trees given n number of keys](Number_of_bst_possible.cpp)
 - [Coin change Problem](CoinChange.cpp)
 - [Matrix Chain Multiplication](MCM.cpp)
+- [Staircase Climbing Problem](StaircaseClimbing.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
