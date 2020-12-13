@@ -8,6 +8,7 @@
 - [Staircase Climbing Problem](StaircaseClimbing.cpp)
 - [Maximum Sub-sequence of non adjacent elements](MaximumSumSubsequenceNonAdjacent.cpp)
 - [Minimum jumps to reach end](MinimumJumps.cpp)
+- [Stone Game VII Leetcode](StoneGame7.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
