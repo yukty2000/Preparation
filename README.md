@@ -9,6 +9,7 @@
 - [Maximum sum sub-sequence of non adjacent elements](MaximumSumSubsequenceNonAdjacent.cpp)
 - [Minimum jumps to reach end](MinimumJumps.cpp)
 - [Stone Game VII Leetcode](StoneGame7.cpp)
+- [Longest Increasing Subsequence O(n^2) and O(nlogn)](LongestIncreasingSubsequence.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
