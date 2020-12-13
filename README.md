@@ -7,7 +7,7 @@
 - [Matrix Chain Multiplication](MCM.cpp)
 - [Staircase Climbing Problem](StaircaseClimbing.cpp)
 - [Maximum Sub-sequence of non adjacent elements](MaximumSumSubsequenceNonAdjacent.cpp)
-- [Minimum jums to reach end](MinimumJumps.cpp)
+- [Minimum jumps to reach end](MinimumJumps.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
