@@ -12,6 +12,7 @@
 - [Longest Increasing Subsequence O(n^2) and O(nlogn)](LongestIncreasingSubsequence.cpp)
 - [Maximise the cut segments](MaximiseTheCutSegments.cpp)
 - [Integer Break](IntegerBreak.cpp)
+- [Count number of ways to cover a distance](CountNumberOfWaysToCoverADistance.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
