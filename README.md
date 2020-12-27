@@ -33,3 +33,15 @@
 - [Randomized Quick Sort](RandomizedQuickSort.cpp)
 - [Stable Counting Sort](StableCountingSort.cpp)
 
+## Data Structures
+- [Segment Tree](SegmentTree.cpp)
+- [Segment Tree with Lazy Propagation](SegmentTree_LazyPropagation.cpp)
+- [Trie](Tries.cpp)
+- [Fenwick Tree or BIT](FenwickTree.cpp)
+- [Sparse Table](SparseTable.cpp)
+
+## Graph Algorithms
+- [Bellman Ford](BellmanFord.cpp)
+- [Bipartite Graph Check](Bipartite.cpp)
+- [Edge Check](EdgeCheck.cpp)
+- [Floyd Warshall](FloydWarshall.cpp)
