@@ -15,6 +15,7 @@
 - [Count number of ways to cover a distance](CountNumberOfWaysToCoverADistance.cpp)
 - [Decode String](DecodeString.cpp)
 - [Longest Palindromic Subsequence](LongestPalindromicSubsequence.cpp)
+- [Optimal Strategy for a Game](OptimalGameStrategy.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
