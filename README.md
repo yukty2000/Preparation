@@ -16,6 +16,7 @@
 - [Decode String](DecodeString.cpp)
 - [Longest Palindromic Subsequence](LongestPalindromicSubsequence.cpp)
 - [Optimal Strategy for a Game](OptimalGameStrategy.cpp)
+- [0-1 Knapsack Problem](0_1KnapsackProblem.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
