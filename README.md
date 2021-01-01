@@ -18,6 +18,7 @@
 - [Optimal Strategy for a Game](OptimalGameStrategy.cpp)
 - [0-1 Knapsack Problem](0_1KnapsackProblem.cpp)
 - [Partition equal subset sum](PartitionEqualSubsets.cpp)
+- [Longest Common Subsequence](LongestCommonSubsequence.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
