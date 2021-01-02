@@ -22,6 +22,7 @@
 - [Minimum Edit Distance](MinimumEditDistance.cpp)
 - [Longest Path in a Matrix](LongestPathInMatrix.cpp)
 - [Word Break](WordBreak.cpp)
+- [Shortest Common Supersequence - Easy](ShortestCommonSupersequence.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
