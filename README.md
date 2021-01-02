@@ -23,6 +23,7 @@
 - [Longest Path in a Matrix](LongestPathInMatrix.cpp)
 - [Word Break](WordBreak.cpp)
 - [Shortest Common Supersequence - Easy](ShortestCommonSupersequence.cpp)
+- [Dice Throw](DiceThrow.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
