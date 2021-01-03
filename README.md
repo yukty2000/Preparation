@@ -25,6 +25,7 @@
 - [Shortest Common Supersequence - Easy](ShortestCommonSupersequence.cpp)
 - [Dice Throw Problem](DiceThrow.cpp)
 - [Box Stacking Problem](BoxStacking.cpp)
+- [Egg Dropping Puzzle](Egg Dropping Puzzle.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
