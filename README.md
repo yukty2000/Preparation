@@ -56,3 +56,6 @@
 - [Bipartite Graph Check](Bipartite.cpp)
 - [Edge Check](EdgeCheck.cpp)
 - [Floyd Warshall](FloydWarshall.cpp)
+
+## Miscellaneous
+- [Count the number of inversions in a given array](InversionCount.cpp)
