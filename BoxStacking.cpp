@@ -24,6 +24,8 @@ Constraints:
 1<=N<=100
 1<=l,w,h<=100
 
+This is an extension of the Longest Increasing Subsequence problem.
+
 */
 
 /*The function takes an array of heights, width and 
