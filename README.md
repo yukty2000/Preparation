@@ -21,9 +21,10 @@
 - [Longest Common Subsequence](LongestCommonSubsequence.cpp)
 - [Minimum Edit Distance](MinimumEditDistance.cpp)
 - [Longest Path in a Matrix](LongestPathInMatrix.cpp)
-- [Word Break](WordBreak.cpp)
+- [Word Break Problem](WordBreak.cpp)
 - [Shortest Common Supersequence - Easy](ShortestCommonSupersequence.cpp)
-- [Dice Throw](DiceThrow.cpp)
+- [Dice Throw Problem](DiceThrow.cpp)
+- [Box Stacking Problem](BoxStacking.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
