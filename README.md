@@ -26,6 +26,7 @@
 - [Dice Throw Problem](DiceThrow.cpp)
 - [Box Stacking Problem](BoxStacking.cpp)
 - [Egg Dropping Puzzle](EggDroppingPuzzle.cpp)
+- [Minimum Sum Partition](MinimumSumPartition.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
