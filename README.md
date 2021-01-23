@@ -64,7 +64,7 @@
 
 ## Trees
 - [Diameter Of a Binary Tree](DiameterOfBinaryTree.cpp)
-- [Sum Tree]SumTree.cpp)
+- [Sum Tree](SumTree.cpp)
 
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
