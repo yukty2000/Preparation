@@ -62,5 +62,8 @@
 - [Detect Cycle in Directed Graph](DetectCyscleInDirectedGraph.cpp)
 - [Guard in a Bank](GuardInABank.cpp)
 
+## Trees
+- [Diameter Of a Binary Tree](DiameterOfBinaryTree.cpp)
+
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
