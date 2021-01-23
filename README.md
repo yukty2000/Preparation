@@ -60,6 +60,7 @@
 - [Kosaraju's Algorithm - SCC](KosarajuAlgorithm.cpp)
 - [Detect Cycle in Undirected Graph](DetectCycleInUndirectedGraph.cpp)
 - [Detect Cycle in Directed Graph](DetectCyscleInDirectedGraph.cpp)
+- [Guard in a Bank](GuardInABank.cpp)
 
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
