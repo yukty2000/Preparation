@@ -66,5 +66,8 @@
 - [Diameter Of a Binary Tree](DiameterOfBinaryTree.cpp)
 - [Sum Tree](SumTree.cpp)
 
+## Linked Lists
+- [Merge K sorted Lists](MergeKSortedLists.cpp)
+
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
