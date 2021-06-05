@@ -27,6 +27,7 @@
 - [Box Stacking Problem](BoxStacking.cpp)
 - [Egg Dropping Puzzle](EggDroppingPuzzle.cpp)
 - [Minimum Sum Partition](MinimumSumPartition.cpp)
+- [Interleaving Strings](InterleavingStrings.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
@@ -34,7 +35,6 @@
 - [N Queens Problem Optimised Solution](NQueensOptimized.cpp)
 - [Modular Exponentiation](ModularExponentiationusingRecursion.cpp)
 - [Modular Inverse Using Fremat's Theorem](ModularInverseUsingFremat.cpp)
-- [Interleaving Strings](InterleavingStrings.cpp)
 
 ## Sorting and Searching
 - [Selection Sort](SelectionSort.cpp)
