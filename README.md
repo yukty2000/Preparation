@@ -34,6 +34,7 @@
 - [N Queens Problem Optimised Solution](NQueensOptimized.cpp)
 - [Modular Exponentiation](ModularExponentiationusingRecursion.cpp)
 - [Modular Inverse Using Fremat's Theorem](ModularInverseUsingFremat.cpp)
+- [Interleaving Strings](InterleavingStrings.cpp)
 
 ## Sorting and Searching
 - [Selection Sort](SelectionSort.cpp)
