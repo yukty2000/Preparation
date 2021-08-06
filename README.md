@@ -31,6 +31,7 @@
 - [Bell Numbers](BellNumbers.cpp)
 - [Form A Palindrome](FormAPalindrome.cpp)
 - [Palindromic Partitioning](PalindromicPartitioning.cpp)
+- [Maximum Profit - 2 solutions](MaximumProfit.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
