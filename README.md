@@ -28,10 +28,10 @@
 - [Egg Dropping Puzzle](EggDroppingPuzzle.cpp)
 - [Minimum Sum Partition](MinimumSumPartition.cpp)
 - [Interleaving Strings](InterleavingStrings.cpp)
-- [Bell Numbers](BellNumbers.cpp)
+- [Bell Numbers (Hard)](BellNumbers.cpp)
 - [Form A Palindrome](FormAPalindrome.cpp)
 - [Palindromic Partitioning](PalindromicPartitioning.cpp)
-- [Maximum Profit - 2 solutions](MaximumProfit.cpp)
+- [Maximum Profit - 2 solutions(Hard)](MaximumProfit.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
