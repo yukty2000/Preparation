@@ -30,7 +30,7 @@
 - [Interleaving Strings](InterleavingStrings.cpp)
 - [Bell Numbers](BellNumbers.cpp)
 - [Form A Palindrome](FormAPalindrome.cpp)
-- [PalindromicPartitioning](PalindromicPartitioning.cpp)
+- [Palindromic Partitioning](PalindromicPartitioning.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
