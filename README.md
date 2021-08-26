@@ -76,3 +76,4 @@
 
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
+- [Search a pattern in a given string - KMP](KMP.cpp)
