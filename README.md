@@ -66,6 +66,7 @@
 - [Detect Cycle in Undirected Graph](DetectCycleInUndirectedGraph.cpp)
 - [Detect Cycle in Directed Graph](DetectCyscleInDirectedGraph.cpp)
 - [Guard in a Bank](GuardInABank.cpp)
+- [Tarjans' Algorithm - SCC (Hard)](TarjansAlgorithm.cpp)
 
 ## Trees
 - [Diameter Of a Binary Tree](DiameterOfBinaryTree.cpp)
