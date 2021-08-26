@@ -68,6 +68,7 @@
 - [Guard in a Bank](GuardInABank.cpp)
 - [Tarjans' Algorithm - SCC (Hard)](TarjansAlgorithm.cpp)
 - [Articulation Points](ArticulationPoint.cpp)
+- [Bridges/Critical Connections in a Graph](BridgeInGraph.cpp)
 
 ## Trees
 - [Diameter Of a Binary Tree](DiameterOfBinaryTree.cpp)
