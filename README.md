@@ -32,6 +32,7 @@
 - [Form A Palindrome](FormAPalindrome.cpp)
 - [Palindromic Partitioning](PalindromicPartitioning.cpp)
 - [Maximum Profit - 2 solutions(Hard)](MaximumProfit.cpp)
+- [Maximum Profit in Job Scheduling](MaximumProfitInJobScheduling.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
