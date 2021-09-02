@@ -80,6 +80,7 @@
 
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
+- [Largest Subarray of 0's and 1's](LargestSubarrayOf0And1.cpp)
 
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
