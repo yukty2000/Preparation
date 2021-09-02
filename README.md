@@ -78,6 +78,9 @@
 ## Linked Lists
 - [Merge K sorted Lists](MergeKSortedLists.cpp)
 
+## Hashing
+- [Zero Sum Subarrays](ZeroSumSubarrays.cpp)
+
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
 - [Search a pattern in a given string - KMP](KMP.cpp)
