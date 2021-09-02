@@ -79,7 +79,7 @@
 - [Merge K sorted Lists](MergeKSortedLists.cpp)
 
 ## Hashing
-- [Zero Sum Subarrays](ZeroSumSubarrays.cpp)
+- [Zero Sum Subarrays](ZeroSumSubarray.cpp)
 
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
