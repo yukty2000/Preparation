@@ -82,6 +82,7 @@
 - [Next Greater Element](NextGreaterElement.cpp)
 - [Get Minimum Element From Stack in O(1) time](MinimumElementFromStack.cpp)
 - [Stock Span Problem](StockSpanProblem.cpp)
+- [The Celebrity Problem](CelebrityProblem.cpp)
 
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
