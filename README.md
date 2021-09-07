@@ -78,6 +78,9 @@
 ## Linked Lists
 - [Merge K sorted Lists](MergeKSortedLists.cpp)
 
+## Stack
+- [Next Greater Element](NextGreaterElement.cpp)
+
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
 - [Largest Subarray of 0's and 1's](LargestSubarrayOf0And1.cpp)
