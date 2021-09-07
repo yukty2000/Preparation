@@ -80,6 +80,7 @@
 
 ## Stack
 - [Next Greater Element](NextGreaterElement.cpp)
+- [Get Minimum Element From Stack in O(1) time](MinimumElementFromStack.cpp)
 
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
