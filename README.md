@@ -84,6 +84,7 @@
 - [Stock Span Problem](StockSpanProblem.cpp)
 - [The Celebrity Problem](CelebrityProblem.cpp)
 - [Maximum Rectangular Area In A Histogram](MaximumRectangularAreaInAHistogram.cpp)
+- [132 Geeky Buildings](132GeekyBuildings.cpp)
 
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
