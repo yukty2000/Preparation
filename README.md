@@ -85,7 +85,7 @@
 - [The Celebrity Problem](CelebrityProblem.cpp)
 - [Maximum Rectangular Area In A Histogram](MaximumRectangularAreaInAHistogram.cpp)
 - [132 Geeky Buildings](132GeekyBuildings.cpp)
-- [Maximum Of Minimum Of Every Window Size](MaximumOfMinimumOfEveryWindowSize.cpp)
+- [Maximum Of Minimum For Every Window Size](MaximumOfMinimumForEveryWindowSize.cpp)
 
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
