@@ -83,6 +83,7 @@
 - [Get Minimum Element From Stack in O(1) time](MinimumElementFromStack.cpp)
 - [Stock Span Problem](StockSpanProblem.cpp)
 - [The Celebrity Problem](CelebrityProblem.cpp)
+- [Maximum Rectangular Area In A Histogram](MaximumRectangularAreaInAHistogram.cpp)
 
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
