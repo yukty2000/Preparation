@@ -33,6 +33,7 @@
 - [Palindromic Partitioning](PalindromicPartitioning.cpp)
 - [Maximum Profit - 2 solutions(Hard)](MaximumProfit.cpp)
 - [Maximum Profit in Job Scheduling](MaximumProfitInJobScheduling.cpp)
+- [Wildcard Pattern Matching](WildcardPatternMatching.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
