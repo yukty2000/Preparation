@@ -87,6 +87,7 @@
 - [Maximum Rectangular Area In A Histogram](MaximumRectangularAreaInAHistogram.cpp)
 - [132 Geeky Buildings](132GeekyBuildings.cpp)
 - [Maximum Of Minimum For Every Window Size](MaximumOfMinimumForEveryWindowSize.cpp)
+- [Maximum Of All Subarrays Of Size K](MaximumOfAllSubarraysOfSizeK.cpp)
 
 ## Hashing
 - [Zero Sum Subarrays](ZeroSumSubarray.cpp)
