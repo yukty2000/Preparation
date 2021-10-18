@@ -96,6 +96,7 @@
 
 ## Heaps
 - [Find Median in a stream](FindMedianInAStream.cpp)
+- [Kth largest element in a stream](KthLargestElementInAStream.cpp)
 
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
