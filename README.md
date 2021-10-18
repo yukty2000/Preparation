@@ -94,6 +94,9 @@
 - [Largest Subarray of 0's and 1's](LargestSubarrayOf0And1.cpp)
 - [A Simple Fraction](ASimpleFraction.cpp)
 
+## Heaps
+- [Find Median in a stream](FindMedianInAStream.cpp)
+
 ## Miscellaneous
 - [Count the number of inversions in a given array](InversionCount.cpp)
 - [Search a pattern in a given string - KMP](KMP.cpp)
