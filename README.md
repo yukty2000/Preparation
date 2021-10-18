@@ -103,3 +103,4 @@
 - [Search a pattern in a given string - KMP](KMP.cpp)
 - [Permutations of a String](PermutationsOfAString.cpp)
 - [Count Total Set Bits](CountTotalSetBits.cpp)
+- [Smallest Positive Missing Number in O(N)](SmallestPositiveMissingNumber.cpp)
