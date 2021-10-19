@@ -98,8 +98,11 @@
 - [Find Median in a stream](FindMedianInAStream.cpp)
 - [Kth largest element in a stream](KthLargestElementInAStream.cpp)
 
-## Miscellaneous
+## Divide and Conquer
 - [Count the number of inversions in a given array](InversionCount.cpp)
+- [Kth Element Of Two Sorted Arrays](KthElementOfTwoSortedArrays.cpp)
+
+## Miscellaneous
 - [Search a pattern in a given string - KMP](KMP.cpp)
 - [Permutations of a String](PermutationsOfAString.cpp)
 - [Count Total Set Bits](CountTotalSetBits.cpp)
