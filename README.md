@@ -101,6 +101,7 @@
 ## Divide and Conquer
 - [Count the number of inversions in a given array](InversionCount.cpp)
 - [Kth Element Of Two Sorted Arrays](KthElementOfTwoSortedArrays.cpp)
+- [Median Of Two Sorted Arrays](MedianOfTwoSortedArrays.cpp)
 
 ## Miscellaneous
 - [Search a pattern in a given string - KMP](KMP.cpp)
