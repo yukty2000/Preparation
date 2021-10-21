@@ -75,6 +75,7 @@
 ## Trees
 - [Diameter Of a Binary Tree](DiameterOfBinaryTree.cpp)
 - [Sum Tree](SumTree.cpp)
+- [Serialize and Deserialize a Binary Tree](SerializeAndDeserializeABinaryTree.cpp)
 
 ## Linked Lists
 - [Merge K sorted Lists](MergeKSortedLists.cpp)
