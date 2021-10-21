@@ -77,6 +77,7 @@
 - [Sum Tree](SumTree.cpp)
 - [Serialize and Deserialize a Binary Tree](SerializeAndDeserializeABinaryTree.cpp)
 - [Nodes at a given distance in Binary Tree](NodesAtAGivenDistanceInBinaryTree.cpp)
+- [Construct Tree From Inorder and Level Order](ConstructTreeFromInorderAndLevelOrder.cpp)
 
 ## Linked Lists
 - [Merge K sorted Lists](MergeKSortedLists.cpp)
