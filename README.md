@@ -106,6 +106,9 @@
 - [Kth Element Of Two Sorted Arrays](KthElementOfTwoSortedArrays.cpp)
 - [Median Of Two Sorted Arrays](MedianOfTwoSortedArrays.cpp)
 
+## Greedy
+- [Water the plants](WaterThePlants.cpp)
+
 ## Miscellaneous
 - [Search a pattern in a given string - KMP](KMP.cpp)
 - [Permutations of a String](PermutationsOfAString.cpp)
