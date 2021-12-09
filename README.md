@@ -114,3 +114,4 @@
 - [Permutations of a String](PermutationsOfAString.cpp)
 - [Count Total Set Bits](CountTotalSetBits.cpp)
 - [Smallest Positive Missing Number in O(N)](SmallestPositiveMissingNumber.cpp)
+- [Next Permutation](NextPermutation.cpp)
