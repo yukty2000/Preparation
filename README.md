@@ -34,6 +34,8 @@
 - [Maximum Profit - 2 solutions(Hard)](MaximumProfit.cpp)
 - [Maximum Profit in Job Scheduling](MaximumProfitInJobScheduling.cpp)
 - [Wildcard Pattern Matching](WildcardPatternMatching.cpp)
+- [Delete and Earn](DeleteAndEarn.cpp)
+- [Maximum Sum Circular Subarray](MaximumSumCircularSubarray.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
