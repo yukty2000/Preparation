@@ -37,6 +37,7 @@
 - [Delete and Earn](DeleteAndEarn.cpp)
 - [Maximum Sum Circular Subarray](MaximumSumCircularSubarray.cpp)
 - [Wiggle Subsequence](WiggleSubsequence.cpp)
+- [Word Wrap](WordWrap.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
