@@ -38,6 +38,7 @@
 - [Maximum Sum Circular Subarray](MaximumSumCircularSubarray.cpp)
 - [Wiggle Subsequence](WiggleSubsequence.cpp)
 - [Word Wrap](WordWrap.cpp)
+- [Count Palindromic Subsequence](CountPalindromicSubsequence.cpp)
 
 ## Recursion and Backtracking
 - [Towers Of Hanoi Problem](TowersOfHanoi.cpp)
