@@ -65,7 +65,8 @@
 - [Segment Tree with Lazy Propagation](SegmentTree_LazyPropagation.cpp)
 - [Trie](Tries.cpp)
 - [Fenwick Tree or BIT](FenwickTree.cpp)
-- [Sparse Table](SparseTable.cpp)
+- [Sparse Table](SparseTable.cpp) 
+- [AVL Trees](AVLTrees.cpp)
 
 ## Graph Algorithms
 - [Bellman Ford](BellmanFord.cpp)
@@ -86,7 +87,6 @@
 - [Serialize and Deserialize a Binary Tree](SerializeAndDeserializeABinaryTree.cpp)
 - [Nodes at a given distance in Binary Tree](NodesAtAGivenDistanceInBinaryTree.cpp)
 - [Construct Tree From Inorder and Level Order](ConstructTreeFromInorderAndLevelOrder.cpp)
-- [CAVL Trees](AVLTrees.cpp)
 
 ## Linked Lists
 - [Merge K sorted Lists](MergeKSortedLists.cpp)
